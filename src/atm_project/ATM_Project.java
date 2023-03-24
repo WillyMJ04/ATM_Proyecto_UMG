@@ -8,13 +8,17 @@ package atm_project;
  *
  * @author Willy MJ
  */
-public class ATM_Project {
+public class ATM_Project { //Inicio clase
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    public static void main(String[] args) { // Inicio metodo Main
+        
+        
+        
+        
+        
+    }// Fin metodo Main
     
-}
+}// Fin clase 
