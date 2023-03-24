@@ -10,4 +10,23 @@ package atm_project;
  */
 public class Base_de_Datos {
     
+     //Creacion de medodos
+    
+    public void autenticarUsuario(){
+        
+    }
+    
+    public void cargarElMontoRetirado(){
+        
+    }
+    
+    public void abonarElMonto(){
+        
+    }
+    
+    public void reflejarSaldo(){
+        
+    }
+    
+    
 }
