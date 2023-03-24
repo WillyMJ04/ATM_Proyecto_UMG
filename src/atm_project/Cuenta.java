@@ -9,5 +9,14 @@ package atm_project;
  * @author Willy MJ
  */
 public class Cuenta {
+    //Creacion de atributos
+    private int NoCuenta;
+    private int Nip;
+    private float Saldo;
+    
+    //Creacion del medodo
+    public void actualizarDatos( ){
+        
+    }
     
 }

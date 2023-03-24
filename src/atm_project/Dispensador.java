@@ -9,5 +9,13 @@ package atm_project;
  * @author Willy MJ
  */
 public class Dispensador {
+    //Creacion de atributos
+    private float EfectivoInicial = 500.0f;
+   
     
+    //Creacion del medodo
+    public void darEfectivo(){
+        
+    }
 }
+

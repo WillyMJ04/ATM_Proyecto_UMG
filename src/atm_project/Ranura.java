@@ -10,4 +10,8 @@ package atm_project;
  */
 public class Ranura {
     
+    //Creacion del medodo
+    public void ricibirSobres(){
+        
+    }
 }

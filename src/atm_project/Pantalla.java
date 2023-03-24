@@ -10,4 +10,9 @@ package atm_project;
  */
 public class Pantalla {
     
+       //Creacion del medodo
+    public void mostrarDatos(){
+        
+    }
+    
 }

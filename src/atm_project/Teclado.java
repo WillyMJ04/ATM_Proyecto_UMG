@@ -10,4 +10,10 @@ package atm_project;
  */
 public class Teclado {
     
+    //Creacion del medodo
+    
+    public void ingresarDatos(){
+        
+    }
+    
 }
