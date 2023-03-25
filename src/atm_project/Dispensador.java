@@ -11,6 +11,17 @@ package atm_project;
 public class Dispensador {
     //Creacion de atributos
     private float EfectivoInicial = 500.0f;
+    
+  //Modificacion de acceso get y set
+    
+   
+    public float getEfectivoInicial() {
+        return EfectivoInicial;
+    }
+
+    public void setEfectivoInicial(float EfectivoInicial) {
+        this.EfectivoInicial = EfectivoInicial;
+    }
    
     
     //Creacion del medodo

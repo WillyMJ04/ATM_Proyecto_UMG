@@ -14,6 +14,33 @@ public class Cuenta {
     private int Nip;
     private float Saldo;
     
+    //Modificacion de acceso get y set
+
+    public int getNoCuenta() {
+        return NoCuenta;
+    }
+
+    public void setNoCuenta(int NoCuenta) {
+        this.NoCuenta = NoCuenta;
+    }
+
+    public int getNip() {
+        return Nip;
+    }
+
+    public void setNip(int Nip) {
+        this.Nip = Nip;
+    }
+
+    public float getSaldo() {
+        return Saldo;
+    }
+
+    public void setSaldo(float Saldo) {
+        this.Saldo = Saldo;
+    }
+    
+    
     //Creacion del medodo
     public void actualizarDatos( ){
         

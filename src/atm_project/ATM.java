@@ -8,18 +8,10 @@ package atm_project;
  *
  * @author Willy MJ
  */
-public class Transaccion {
+public class ATM {
     
-    //Creacion de atributos
-    private int NoCuenta;
-
-      //Modificacion de acceso get y set
-    public int getNoCuenta() {
-        return NoCuenta;
-    }
-
-    public void setNoCuenta(int NoCuenta) {
-        this.NoCuenta = NoCuenta;
+     public void hacerTransacciones(){
+        
     }
     
 }
